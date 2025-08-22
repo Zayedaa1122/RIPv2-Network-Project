@@ -1,3 +1,6 @@
+<div>
+<img src="rip.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
+</div>
 مشروع شبكة باستخدام RIP v2
 
 1️⃣ الهدف
